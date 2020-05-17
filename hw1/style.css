@@ -1,0 +1,45 @@
+h1 {
+    background: #1E88E5;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+    margin: 30px;
+}
+
+p {
+    margin: 5px;
+}
+
+div {
+    padding: 30px;
+    margin: 30px
+}
+
+.a {
+    background: #EC407A;    
+    color: #ffffff;
+}
+
+.b {
+    background: #E0E0E0;
+}
+
+.c {
+    background: #ffffff;
+    margin: 0px;
+    color: #000000;
+    padding: 20px;
+    border-left-color: #4CAF50;
+    border-left-style: solid;
+    border-left-width: 10px;
+    font-family: monospace;
+}
+
+button {
+    background: #4CAF50;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+    margin-Top: 30px;
+    font-family: fantasy;
+}

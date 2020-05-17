@@ -1,0 +1,78 @@
+.footer {
+    background: #f2f2f2;
+    color: #5f6368;
+    width: 100%;
+    position: fixed;
+    line-height: 40px;
+    bottom: 0px;
+}
+
+.top-menu {
+    text-align: right;
+    padding: 10px;
+}
+
+.content {
+    padding: 0px 20px;
+    border-top-color: #e4e4e4;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+body {
+    margin: 0px;
+}
+
+p {
+    margin: 0px 10px;
+    font-size: 15px;
+}
+
+a {
+    margin: 10px;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.content a, .content:visited {
+    color: #5f6368;
+    text-decoration: none;
+}
+.content a:hover {
+    text-decoration: underline;
+}
+
+.blue {
+    color: royalblue;
+}
+
+button {
+    padding: 8px 16px;
+    background: #f2f2f2;
+    margin: 10px 5px;
+    border: 0px;
+    color: #5f6368;
+    font-size: 15px;
+}
+
+.search-bar {
+    margin: 20px;
+    background: #ffffff;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: #e4e4e4;
+    border-width: 2px;
+    width: 500px;
+    height: 40px;
+    color: #e4e4e4;
+    font-size: 20px;
+}
+
+input {
+    margin: 0px 10px;
+    font-size: 20px;
+    width: 80%;
+    height: 100%;
+    border-style: none;
+}
